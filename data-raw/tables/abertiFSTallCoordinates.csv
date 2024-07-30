@@ -1,0 +1,101 @@
+population_1,population_2,fst,longitude,latitude
+S. a. aberti Carson-SFW,S. a. aberti Carson-SFW,0,-106.620585,35.721199
+S. a. aberti Carson-SFW,S. a. aberti Coconino-Gila,0.23987431,-109.4186,33.7954
+S. a. aberti Carson-SFW,S. a. aberti MT-Zuni,0.264613282,-107.623047,35.227501
+S. a. aberti Carson-SFW,S. a. aberti San Juan,0.098021057,-107.67,37.77
+S. a. aberti Carson-SFW,S. a. barberi,0.35716187,-108.2527447,29.66891345
+S. a. aberti Carson-SFW,S. a. chuscensis E,0.32957575,-109.0395333,36.09859869
+S. a. aberti Carson-SFW,S. a. chuscensis W,0.308283342,-109.0395333,36.09859869
+S. a. aberti Carson-SFW,S. a. ferreus Carson E,0.202790074,-105.084478,36.776967
+S. a. aberti Carson-SFW,S. a. ferreus Pike,0.310416833,-105.3251534,38.9133299
+S. a. aberti Carson-SFW,S. a. kaibabensis,0.504177096,-112.1675211,36.5831097
+S. a. aberti Coconino-Gila,S. a. aberti Carson-SFW,0.23987431,-106.620585,35.721199
+S. a. aberti Coconino-Gila,S. a. aberti Coconino-Gila,0,-109.4186,33.7954
+S. a. aberti Coconino-Gila,S. a. aberti MT-Zuni,0.134746378,-107.623047,35.227501
+S. a. aberti Coconino-Gila,S. a. aberti San Juan,0.305588067,-107.67,37.77
+S. a. aberti Coconino-Gila,S. a. barberi,0.228384049,-108.2527447,29.66891345
+S. a. aberti Coconino-Gila,S. a. chuscensis E,0.15793706,-109.0395333,36.09859869
+S. a. aberti Coconino-Gila,S. a. chuscensis W,0.197547232,-109.0395333,36.09859869
+S. a. aberti Coconino-Gila,S. a. ferreus Carson E,0.18278713,-105.084478,36.776967
+S. a. aberti Coconino-Gila,S. a. ferreus Pike,0.284515113,-105.3251534,38.9133299
+S. a. aberti Coconino-Gila,S. a. kaibabensis,0.332035966,-112.1675211,36.5831097
+S. a. aberti MT-Zuni,S. a. aberti Carson-SFW,0.264613282,-106.620585,35.721199
+S. a. aberti MT-Zuni,S. a. aberti Coconino-Gila,0.134746378,-109.4186,33.7954
+S. a. aberti MT-Zuni,S. a. aberti MT-Zuni,0,-107.623047,35.227501
+S. a. aberti MT-Zuni,S. a. aberti San Juan,0.34127219,-107.67,37.77
+S. a. aberti MT-Zuni,S. a. barberi,0.284518198,-108.2527447,29.66891345
+S. a. aberti MT-Zuni,S. a. chuscensis E,0.131218184,-109.0395333,36.09859869
+S. a. aberti MT-Zuni,S. a. chuscensis W,0.147358239,-109.0395333,36.09859869
+S. a. aberti MT-Zuni,S. a. ferreus Carson E,0.219142036,-105.084478,36.776967
+S. a. aberti MT-Zuni,S. a. ferreus Pike,0.311821664,-105.3251534,38.9133299
+S. a. aberti MT-Zuni,S. a. kaibabensis,0.433121,-112.1675211,36.5831097
+S. a. aberti San Juan,S. a. aberti Carson-SFW,0.098021057,-106.620585,35.721199
+S. a. aberti San Juan,S. a. aberti Coconino-Gila,0.305588067,-109.4186,33.7954
+S. a. aberti San Juan,S. a. aberti MT-Zuni,0.34127219,-107.623047,35.227501
+S. a. aberti San Juan,S. a. aberti San Juan,0,-107.67,37.77
+S. a. aberti San Juan,S. a. barberi,0.399295044,-108.2527447,29.66891345
+S. a. aberti San Juan,S. a. chuscensis E,0.431105741,-109.0395333,36.09859869
+S. a. aberti San Juan,S. a. chuscensis W,0.383339008,-109.0395333,36.09859869
+S. a. aberti San Juan,S. a. ferreus Carson E,0.302528022,-105.084478,36.776967
+S. a. aberti San Juan,S. a. ferreus Pike,0.388014232,-105.3251534,38.9133299
+S. a. aberti San Juan,S. a. kaibabensis,0.56771917,-112.1675211,36.5831097
+S. a. barberi,S. a. aberti Carson-SFW,0.35716187,-106.620585,35.721199
+S. a. barberi,S. a. aberti Coconino-Gila,0.228384049,-109.4186,33.7954
+S. a. barberi,S. a. aberti MT-Zuni,0.284518198,-107.623047,35.227501
+S. a. barberi,S. a. aberti San Juan,0.399295044,-107.67,37.77
+S. a. barberi,S. a. barberi,0,-108.2527447,29.66891345
+S. a. barberi,S. a. chuscensis E,0.266874857,-109.0395333,36.09859869
+S. a. barberi,S. a. chuscensis W,0.328889126,-109.0395333,36.09859869
+S. a. barberi,S. a. ferreus Carson E,0.284898695,-105.084478,36.776967
+S. a. barberi,S. a. ferreus Pike,0.380299038,-105.3251534,38.9133299
+S. a. barberi,S. a. kaibabensis,0.413447431,-112.1675211,36.5831097
+S. a. chuscensis E,S. a. aberti Carson-SFW,0.32957575,-106.620585,35.721199
+S. a. chuscensis E,S. a. aberti Coconino-Gila,0.15793706,-109.4186,33.7954
+S. a. chuscensis E,S. a. aberti MT-Zuni,0.131218184,-107.623047,35.227501
+S. a. chuscensis E,S. a. aberti San Juan,0.431105741,-107.67,37.77
+S. a. chuscensis E,S. a. barberi,0.266874857,-108.2527447,29.66891345
+S. a. chuscensis E,S. a. chuscensis E,0,-109.0395333,36.09859869
+S. a. chuscensis E,S. a. chuscensis W,0.006296465,-109.0395333,36.09859869
+S. a. chuscensis E,S. a. ferreus Carson E,0.297895877,-105.084478,36.776967
+S. a. chuscensis E,S. a. ferreus Pike,0.390351598,-105.3251534,38.9133299
+S. a. chuscensis E,S. a. kaibabensis,0.523416611,-112.1675211,36.5831097
+S. a. chuscensis W,S. a. aberti Carson-SFW,0.308283342,-106.620585,35.721199
+S. a. chuscensis W,S. a. aberti Coconino-Gila,0.197547232,-109.4186,33.7954
+S. a. chuscensis W,S. a. aberti MT-Zuni,0.147358239,-107.623047,35.227501
+S. a. chuscensis W,S. a. aberti San Juan,0.383339008,-107.67,37.77
+S. a. chuscensis W,S. a. barberi,0.328889126,-108.2527447,29.66891345
+S. a. chuscensis W,S. a. chuscensis E,0.006296465,-109.0395333,36.09859869
+S. a. chuscensis W,S. a. chuscensis W,0,-109.0395333,36.09859869
+S. a. chuscensis W,S. a. ferreus Carson E,0.281916496,-105.084478,36.776967
+S. a. chuscensis W,S. a. ferreus Pike,0.356245215,-105.3251534,38.9133299
+S. a. chuscensis W,S. a. kaibabensis,0.475057482,-112.1675211,36.5831097
+S. a. ferreus Carson E,S. a. aberti Carson-SFW,0.202790074,-106.620585,35.721199
+S. a. ferreus Carson E,S. a. aberti Coconino-Gila,0.18278713,-109.4186,33.7954
+S. a. ferreus Carson E,S. a. aberti MT-Zuni,0.219142036,-107.623047,35.227501
+S. a. ferreus Carson E,S. a. aberti San Juan,0.302528022,-107.67,37.77
+S. a. ferreus Carson E,S. a. barberi,0.284898695,-108.2527447,29.66891345
+S. a. ferreus Carson E,S. a. chuscensis E,0.297895877,-109.0395333,36.09859869
+S. a. ferreus Carson E,S. a. chuscensis W,0.281916496,-109.0395333,36.09859869
+S. a. ferreus Carson E,S. a. ferreus Carson E,0,-105.084478,36.776967
+S. a. ferreus Carson E,S. a. ferreus Pike,0.2251572,-105.3251534,38.9133299
+S. a. ferreus Carson E,S. a. kaibabensis,0.524932228,-112.1675211,36.5831097
+S. a. ferreus Pike,S. a. aberti Carson-SFW,0.310416833,-106.620585,35.721199
+S. a. ferreus Pike,S. a. aberti Coconino-Gila,0.284515113,-109.4186,33.7954
+S. a. ferreus Pike,S. a. aberti MT-Zuni,0.311821664,-107.623047,35.227501
+S. a. ferreus Pike,S. a. aberti San Juan,0.388014232,-107.67,37.77
+S. a. ferreus Pike,S. a. barberi,0.380299038,-108.2527447,29.66891345
+S. a. ferreus Pike,S. a. chuscensis E,0.390351598,-109.0395333,36.09859869
+S. a. ferreus Pike,S. a. chuscensis W,0.356245215,-109.0395333,36.09859869
+S. a. ferreus Pike,S. a. ferreus Carson E,0.2251572,-105.084478,36.776967
+S. a. ferreus Pike,S. a. ferreus Pike,0,-105.3251534,38.9133299
+S. a. ferreus Pike,S. a. kaibabensis,0.549075411,-112.1675211,36.5831097
+S. a. kaibabensis,S. a. aberti Carson-SFW,0.504177096,-106.620585,35.721199
+S. a. kaibabensis,S. a. aberti Coconino-Gila,0.332035966,-109.4186,33.7954
+S. a. kaibabensis,S. a. aberti MT-Zuni,0.433121,-107.623047,35.227501
+S. a. kaibabensis,S. a. aberti San Juan,0.56771917,-107.67,37.77
+S. a. kaibabensis,S. a. barberi,0.413447431,-108.2527447,29.66891345
+S. a. kaibabensis,S. a. chuscensis E,0.523416611,-109.0395333,36.09859869
+S. a. kaibabensis,S. a. chuscensis W,0.475057482,-109.0395333,36.09859869
+S. a. kaibabensis,S. a. ferreus Carson E,0.524932228,-105.084478,36.776967
+S. a. kaibabensis,S. a. ferreus Pike,0.549075411,-105.3251534,38.9133299
+S. a. kaibabensis,S. a. kaibabensis,0,-112.1675211,36.5831097

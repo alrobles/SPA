@@ -21,7 +21,7 @@ nlayers <- dim(rasterProjectionPresent)[3]
 
 SPA <- sum(rasterProjectionPresent)/(nlayers)
 names(SPA) <- "SPA"
-terra::writeRaster(SPA, filename = "data-raw/raster/SPA.tif")
+terra::writeRaster(SPA, filename = "data-raw/raster/SPA.tif", overwrite = TRUE)
 
 aberti_pops_sf <- aberti_pops %>%
   sf::st_as_sf(coords = c("longitude", "latitude"))

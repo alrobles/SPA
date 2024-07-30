@@ -1,0 +1,46 @@
+id,species,num,long,lat,year,locat,window
+3892444939,sciurus_aberti,100,-104.980545,23.610068,2022,"34345 Dgo., México",20_25
+3881458582,sciurus_aberti,118,-105.055488,23.642048,2022,"Km 61 carretera federal #40 Durango-Mazatlán + 26 Km por entronque Navíos-Regocijo + 14 Km de terracería Camino sin nombre, s/n Rancho Molinillos, 34345 Dgo., México",20_25
+3873987801,sciurus_aberti,125,-105.669379,23.713736,2022,"Pueblo Nuevo, Dgo., México",20_25
+1880652053,sciurus_aberti,1387,-104.978245,23.461199,2017,"Pueblo Nuevo, Dgo., México",20_25
+3892467959,sciurus_aberti,99,-104.980473,23.609688,2022,"34345 Dgo., México",20_25
+3923642039,sciurus_aberti,11,-105.489182,23.715834,2022,"Pueblo Nuevo, Dgo., México",20_25
+3039357342,sciurus_aberti,595,-105.573753,24.267906,2017,"San Dimas, Dgo., México",20_25
+2423198254,sciurus_aberti,1039,-105.055514,23.642144,2019,"Durango, Durango, Mexico",20_25
+2963927937,sciurus_aberti,643,-105.503086,23.7159,2020,"Pueblo Nuevo, Dgo., México",20_25
+896306907,sciurus_aberti,2263,-106.998425,25.932421,1937,MT MOHINORA: E SIDE,25_30
+3902594727,sciurus_aberti,67,-108.108877,29.306174,2021,"Madera, MX-CH, MX",25_30
+2626399159,sciurus_aberti,895,-108.315889,29.362501,2020,"Madera, MX-CH, MX",25_30
+3754669312,sciurus_aberti,241,-108.302741,29.805229,1990,"Mexico, Sierra Madre Occidental, San Juan, ca. 15.0 km N, 4.5 km W Mesa del Huracán",25_30
+2540789527,sciurus_aberti,987,-108.201465,29.327834,2019,"Madera, Chih., México",25_30
+1668896541,sciurus_aberti,1530,-108.154822,29.380729,2012,"Madera, MX-CH, MX",25_30
+3902768205,sciurus_aberti,62,-108.705245,29.847794,2022,"Nácori Chico, Son., México",25_30
+3903215338,sciurus_aberti,41,-108.266804,29.270657,2021,"Madera, MX-CH, MX",25_30
+3903460392,sciurus_aberti,34,-108.34926,29.243598,2021,"Madera, MX-CH, MX",25_30
+1656639660,sciurus_aberti,1544,-108.768414,33.784508,1970,"North America | United States | New Mexico | Catron County | Gila National Forest, 11.7 miles northwest of Reserve by Road Along San Francisco River",30_35
+3925083868,sciurus_aberti,9,-109.864978,32.659647,2022,"AZ 366 (end of pavement), Mt. Graham, Graham Co., AZ",30_35
+1143527384,sciurus_aberti,2193,-110.723396,32.416568,2015,"Tucson, MT Bigelow rd",30_35
+3859809799,sciurus_aberti,148,-112.45006,34.496264,2022,"Prescott, AZ, USA",30_35
+1920784278,sciurus_aberti,1265,-110.942,34.331,2018,"Coconino County, AZ, USA",30_35
+1145350992,sciurus_aberti,1944,-109.9114308,32.66515845,1981,GRAHM MTNS. HOSPITAL FLATS; T9S R24E SEC8,30_35
+1262399402,sciurus_aberti,1786,-109.874801,32.680136,1961,United States of America | Arizona | Graham,30_35
+1145354526,sciurus_aberti,1907,-108.7969673,33.41279708,1948,1 MI N MOGOLLON,30_35
+1831187070,sciurus_aberti,1493,-106.348992,34.97474,2018,"Tijeras, NM 87059, USA",30_35
+2898501583,sciurus_aberti,659,-113.888542,35.06588,2020,"Hualapai Mountains, Mohave County, AZ, USA",35_40
+3067612250,sciurus_aberti,574,-106.311473,35.90429,2020,"Los Alamos, NM 87544, USA",35_40
+3712730747,sciurus_aberti,257,-106.306282,35.885116,2022,"Los Alamos, NM 87544, USA",35_40
+1052583567,sciurus_aberti,2219,-112.047136,36.005812,2012,"Grand Canyon, Grand Canyon National Park, Coconino County, US-AZ, US",35_40
+3343991253,sciurus_aberti,440,-106.485787,35.17945,2021,"White Oaks Dr Ne, Albuquerque, NM, US",35_40
+2898280027,sciurus_aberti,663,-111.683333,35.171833,2020,"Coconino National Forest, Flagstaff, AZ, US",35_40
+3333279064,sciurus_aberti,467,-106.356583,35.832984,2021,"Los Alamos County, NM, USA",35_40
+1269500171,sciurus_aberti,1732,-112.319076,36.558771,1989,"Arizona: Kaibab Plateau, R1ExT37N@0",35_40
+3039464063,sciurus_aberti,592,-105.385034,39.589803,2020,"Shadow Mountain, CO, USA",35_40
+2626272389,sciurus_aberti,897,-105.486818,40.389889,2017,"Condado de Larimer, CO, EUA",40_45
+3355620801,sciurus_aberti,366,-105.571631,40.335506,2021,"Estes Park, CO 80517, USA",40_45
+1455569631,sciurus_aberti,1628,-105.604362,40.364858,2012,"Larimer County, CO, USA",40_45
+3327684782,sciurus_aberti,475,-105.573605,40.343428,2021,"Mineral Rd, Estes Park, CO, US",40_45
+897163286,sciurus_aberti,2250,-105.581001,40.7001,1980,"Received from C.H. Ernst, GMU.  Elevation - 8500'.",40_45
+1500311552,sciurus_aberti,1620,-105.349808,40.034261,2016,"Boulder County, CO, USA",40_45
+1847556824,sciurus_aberti,1460,-105.307388,40.162608,2007,"Boulder County, CO, USA",40_45
+1145103986,sciurus_aberti,2148,-105.52111,40.37722,1944,"North America, United States, Colorado, Larimer County, Estes Park",40_45
+3873984938,sciurus_aberti,126,-105.300942,40.645017,2022,"Arapaho & Roosevelt National Forests Pawnee National Grassland, Bellvue, CO, US",40_45
