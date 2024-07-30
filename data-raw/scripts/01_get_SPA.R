@@ -17,11 +17,8 @@ aberti_pops <- readr::read_csv("data-raw/tables/abertiFSTallCoordinates.csv")
 
 rasterProjectionPresent <- terra::rast("data-raw/raster/rasterProjectionPresent.tif")
 
-nlayers <- dim(rasterProjectionPresent)[3]
-
-SPA <- sum(rasterProjectionPresent)/(nlayers)
-names(SPA) <- "SPA"
-terra::writeRaster(SPA, filename = "data-raw/raster/SPA.tif", overwrite = TRUE)
+SPA <- get_SPA(rasterProjectionPresent)
+# terra::writeRaster(SPA, filename = "data-raw/raster/SPA.tif", overwrite = TRUE)
 
 aberti_pops_sf <- aberti_pops %>%
   sf::st_as_sf(coords = c("longitude", "latitude"))
